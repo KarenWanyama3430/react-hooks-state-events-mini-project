@@ -16,6 +16,6 @@ function App() {
       <TaskList />
     </div>
   );
-}
+  }
 
 export default App;
